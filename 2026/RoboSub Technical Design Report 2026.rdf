@@ -1,0 +1,165 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <rdf:Description rdf:about="https://ieeexplore.ieee.org/document/6669617">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>2013 European Control Conference (ECC)</dc:title>
+                <dc:identifier>DOI 10.23919/ECC.2013.6669617</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fresk</foaf:surname>
+                        <foaf:givenName>Emil</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nikolakopoulos</foaf:surname>
+                        <foaf:givenName>George</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Aerospace electronics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Attitude control</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Equations</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mathematical model</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Noise</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Quaternions</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Vectors</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Full quaternion based attitude control for a quadrotor</dc:title>
+        <dcterms:abstract>The aim of this article is to present a novel quaternion based control scheme for the attitude control problem of a quadrotor. A quaternion is a hyper complex number of rank 4 that can be utilized to avoid the inherent geometrical singularity when representing rigid body dynamics with Euler angles or the complexity of having coupled differential equations with the Direction Cosine Matrix (DCM). In the presented approach both the quadrotor's attitude model and the proposed non-linear Proportional squared (P2) control algorithm have been implemented in the quaternion space, without any transformations and calculations in the Euler's angle space or DCM. Throughout the article, the merits of the proposed novel approach are being analyzed and discussed, while the efficacy of the suggested novel quaternion based controller are being evaluated by extended simulation results.</dcterms:abstract>
+        <dc:date>2013-07</dc:date>
+        <z:libraryCatalog>IEEE Xplore</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://ieeexplore.ieee.org/document/6669617</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-04-18 17:44:02</dcterms:dateSubmitted>
+        <bib:pages>3864-3869</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+               <dc:title>2013 European Control Conference (ECC)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Thesis rdf:about="http://home.ewha.ac.kr/~bulee/quaternion.pdf">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Stanford University</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Byung-Uk</foaf:surname>
+                        <foaf:givenName>Lee</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Unit quaternion representation of rotation</dc:title>
+        <dc:date>1991</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://home.ewha.ac.kr/~bulee/quaternion.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Thesis>
+    <bib:Article rdf:about="https://ieeexplore.ieee.org/document/1098430">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1558-2523"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pio</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Equations</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Aircraft</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Angular velocity</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Error analysis</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Mathematics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Motion analysis</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Space vehicles</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Vehicle dynamics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Writing</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Euler angle transformations</dc:title>
+        <dcterms:abstract>The definition of sets of Euler angles is discussed and a useful tool for treating the mathematics associated with Euler angles is illustrated. Restricting attention to right-handed coordinate systems and positive rotations, twelve distinct but equivalent sets of Euler angles are partitioned into two subsets. The method of determining a set of orthogonal infinitesimal rotations equivalent to nonorthogonal infinitesimal increments on a set of Euler angles is illustrated. It is shown that the same solution yields expressions for the angular velocities of the final coordinate system relative to the reference coordinate system in terms of derivatives of the Euler angles. The ease with which the infinitesimal increments of one Euler set in terms of the increments of another equivalent Euler set can be determined by the symbolic technique is illustrated. This technique offers a systematic approach to error analysis of sequences of rotations.</dcterms:abstract>
+        <dc:date>1966-10</dc:date>
+        <z:libraryCatalog>IEEE Xplore</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://ieeexplore.ieee.org/document/1098430</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-04-18 19:49:14</dcterms:dateSubmitted>
+        <bib:pages>707-715</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1558-2523">
+        <prism:volume>11</prism:volume>
+        <dc:title>IEEE Transactions on Automatic Control</dc:title>
+        <dc:identifier>DOI 10.1109/TAC.1966.1098430</dc:identifier>
+        <prism:number>4</prism:number>
+        <dc:identifier>ISSN 1558-2523</dc:identifier>
+    </bib:Journal>
+</rdf:RDF>

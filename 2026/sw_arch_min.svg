@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 1664 964"
+   width="1664"
+   height="964"
+   id="svg93"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <!-- svg-source:excalidraw -->
+  <metadata
+     id="metadata1" />
+  <defs
+     id="defs1">
+    <style
+       class="style-fonts"
+       id="style1">
+.line { 
+    stroke:currentColor;
+}
+.text { fill:currentColor; }
+</style>
+  </defs>
+  <g
+     stroke-linecap="round"
+     transform="translate(2,2)"
+     id="g1"
+     class="line  text ">
+    <path
+       d="M 32,0 C 98.56,0 165.11,0 268,0 M 32,0 c 92.47,0 184.95,0 236,0 m 0,0 c 21.33,0 32,10.67 32,32 M 268,0 c 21.33,0 32,10.67 32,32 m 0,0 c 0,105.34 0,210.69 0,276 m 0,-276 c 0,77.75 0,155.5 0,276 m 0,0 c 0,21.33 -10.67,32 -32,32 m 32,-32 c 0,21.33 -10.67,32 -32,32 m 0,0 c -67.16,0 -134.32,0 -236,0 m 236,0 c -59.21,0 -118.43,0 -236,0 m 0,0 C 10.67,340 0,329.33 0,308 m 32,32 C 10.67,340 0,329.33 0,308 m 0,0 C 0,207.5 0,107 0,32 M 0,308 C 0,215.9 0,123.79 0,32 m 0,0 C 0,10.67 10.67,0 32,0 M 0,32 C 0,10.67 10.67,0 32,0"
+       stroke="currentColor"
+       stroke-width="4"
+       fill="none"
+       id="path1" />
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(2,2)"
+     id="g3"
+     class="line  text ">
+    <path
+       d="m 25,0 c 56.55,0 113.1,0 250,0 16.67,0 25,8.33 25,25 0,18.53 0,37.07 0,50 0,16.67 -8.33,25 -25,25 -61.03,0 -122.06,0 -250,0 C 8.33,100 0,91.67 0,75 0,58.4 0,41.8 0,25 0,8.33 8.33,0 25,0"
+       stroke="currentColor"
+       stroke-width="0"
+       id="path2"
+       fill="#b2f2bb"
+       style="fill:none" />
+    <path
+       d="m 25,0 c 97.67,0 195.34,0 250,0 M 25,0 c 54.38,0 108.76,0 250,0 m 0,0 c 16.67,0 25,8.33 25,25 M 275,0 c 16.67,0 25,8.33 25,25 m 0,0 c 0,15.14 0,30.27 0,50 m 0,-50 c 0,19.86 0,39.73 0,50 m 0,0 c 0,16.67 -8.33,25 -25,25 m 25,-25 c 0,16.67 -8.33,25 -25,25 m 0,0 c -62.64,0 -125.27,0 -250,0 m 250,0 c -94.9,0 -189.79,0 -250,0 m 0,0 C 8.33,100 0,91.67 0,75 m 25,25 C 8.33,100 0,91.67 0,75 m 0,0 C 0,58.73 0,42.46 0,25 M 0,75 C 0,59.01 0,43.01 0,25 m 0,0 C 0,8.33 8.33,0 25,0 M 0,25 C 0,8.33 8.33,0 25,0"
+       stroke="currentColor"
+       stroke-width="4"
+       fill="none"
+       id="path3" />
+  </g>
+  <g
+     transform="translate(38.113976,29.5)"
+     id="g4"
+     class="text  line">
+    <text
+       x="113.88602"
+       y="34.344002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="36px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text3"
+       class="text ">Control Board</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(22,122)"
+     id="g5"
+     class="line  text ">
+    <path
+       d="M 20,0 C 92.55,0 165.1,0 240,0 M 20,0 c 63.28,0 126.57,0 220,0 m 0,0 c 13.33,0 20,6.67 20,20 M 240,0 c 13.33,0 20,6.67 20,20 m 0,0 c 0,11.32 0,22.64 0,40 m 0,-40 c 0,12.67 0,25.35 0,40 m 0,0 c 0,13.33 -6.67,20 -20,20 m 20,-20 c 0,13.33 -6.67,20 -20,20 m 0,0 c -60.06,0 -120.11,0 -220,0 m 220,0 C 164.86,80 89.72,80 20,80 m 0,0 C 6.67,80 0,73.33 0,60 M 20,80 C 6.67,80 0,73.33 0,60 m 0,0 C 0,51.43 0,42.85 0,20 M 0,60 C 0,48.13 0,36.26 0,20 m 0,0 C 0,6.67 6.67,0 20,0 M 0,20 C 0,6.67 6.67,0 20,0"
+       stroke="currentColor"
+       stroke-width="4"
+       fill="none"
+       id="path4" />
+  </g>
+  <g
+     transform="translate(28.933968,139.5)"
+     id="g6"
+     class="text  line">
+    <text
+       x="123.06603"
+       y="34.344002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="36px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text5"
+       class="text ">Microcontroller</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(82,222)"
+     id="g7"
+     class="line  text ">
+    <path
+       d="m 20,0 c 21.9,0 43.8,0 99,0 M 20,0 c 25.2,0 50.41,0 99,0 m 0,0 c 13.33,0 20,6.67 20,20 M 119,0 c 13.33,0 20,6.67 20,20 m 0,0 c 0,14.92 0,29.85 0,40 m 0,-40 c 0,14.28 0,28.55 0,40 m 0,0 c 0,13.33 -6.67,20 -20,20 m 20,-20 c 0,13.33 -6.67,20 -20,20 m 0,0 c -33.16,0 -66.32,0 -99,0 m 99,0 c -26.28,0 -52.56,0 -99,0 m 0,0 C 6.67,80 0,73.33 0,60 M 20,80 C 6.67,80 0,73.33 0,60 m 0,0 C 0,45.22 0,30.43 0,20 M 0,60 C 0,49.31 0,38.63 0,20 m 0,0 C 0,6.67 6.67,0 20,0 M 0,20 C 0,6.67 6.67,0 20,0"
+       stroke="currentColor"
+       stroke-width="4"
+       fill="none"
+       id="path6" />
+  </g>
+  <g
+     transform="translate(118.18198,239.5)"
+     id="g8"
+     class="text  line">
+    <text
+       x="33.318016"
+       y="34.344002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="36px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text7"
+       class="text ">IMU</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(102,562)"
+     id="g9"
+     class="line  text ">
+    <path
+       d="M 20,0 C 35.27,0 50.54,0 80,0 M 20,0 c 16.11,0 32.21,0 60,0 m 0,0 c 13.33,0 20,6.67 20,20 M 80,0 c 13.33,0 20,6.67 20,20 m 0,0 c 0,9.15 0,18.3 0,40 m 0,-40 c 0,12.4 0,24.81 0,40 m 0,0 c 0,13.33 -6.67,20 -20,20 m 20,-20 c 0,13.33 -6.67,20 -20,20 m 0,0 c -17.69,0 -35.37,0 -60,0 m 60,0 c -23.81,0 -47.62,0 -60,0 m 0,0 C 6.67,80 0,73.33 0,60 M 20,80 C 6.67,80 0,73.33 0,60 m 0,0 C 0,51.11 0,42.22 0,20 M 0,60 C 0,50.91 0,41.82 0,20 m 0,0 C 0,6.67 6.67,0 20,0 M 0,20 C 0,6.67 6.67,0 20,0"
+       stroke="currentColor"
+       stroke-width="4"
+       fill="none"
+       id="path8" />
+  </g>
+  <g
+     transform="translate(109.84399,579.5)"
+     id="g10"
+     class="text  line">
+    <text
+       x="42.156006"
+       y="34.344002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="36px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text9"
+       class="text ">ESCs</text>
+  </g>
+  <g
+     mask="url(#mask-y9Zi7JwSXpGIoooGmU0fG)"
+     stroke-linecap="round"
+     id="g14"
+     class="line  text "
+     transform="translate(-8,-8)">
+    <g
+       transform="translate(160.02936,357)"
+       id="g11">
+      <path
+         d="M 0,0 C 0,34.33 -0.02,171.67 -0.02,206 M 0,0 c 0,34.33 -0.02,171.67 -0.02,206"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path10" />
+    </g>
+    <g
+       transform="translate(160.02936,357)"
+       id="g12">
+      <path
+         d="m -8.57,182.51 c 2.81,7.72 5.62,15.44 8.55,23.49 m -8.55,-23.49 c 2.14,5.86 4.27,11.72 8.55,23.49"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path11" />
+    </g>
+    <g
+       transform="translate(160.02936,357)"
+       id="g13">
+      <path
+         d="M 8.53,182.51 C 5.72,190.23 2.91,197.95 -0.02,206 M 8.53,182.51 C 6.4,188.37 4.27,194.23 -0.02,206"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path12" />
+    </g>
+  </g>
+  <mask
+     id="mask-y9Zi7JwSXpGIoooGmU0fG">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="260.0481"
+       height="663"
+       id="rect14" />
+    <rect
+       x="91.251717"
+       y="425"
+       fill="#000000"
+       width="137.53656"
+       height="70"
+       opacity="1"
+       id="rect15" />
+  </mask>
+  <g
+     transform="translate(83.25172,417)"
+     id="g16"
+     class="text  line">
+    <text
+       x="68.76828"
+       y="26.712"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="28px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text15"
+       class="text ">Speed</text>
+    <text
+       x="68.76828"
+       y="61.712002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="28px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text16"
+       class="text ">commands</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(702,2)"
+     id="g17"
+     class="line  text ">
+    <path
+       d="M 32,0 C 352.69,0 673.38,0 928,0 M 32,0 c 181.46,0 362.91,0 896,0 m 0,0 c 21.33,0 32,10.67 32,32 M 928,0 c 21.33,0 32,10.67 32,32 m 0,0 c 0,235.57 0,471.15 0,596 m 0,-596 c 0,198.29 0,396.59 0,596 m 0,0 c 0,21.33 -10.67,32 -32,32 m 32,-32 c 0,21.33 -10.67,32 -32,32 m 0,0 c -195.61,0 -391.22,0 -896,0 m 896,0 c -338.45,0 -676.9,0 -896,0 m 0,0 C 10.67,660 0,649.33 0,628 m 32,32 C 10.67,660 0,649.33 0,628 m 0,0 C 0,496.41 0,364.81 0,32 M 0,628 C 0,492.98 0,357.95 0,32 m 0,0 C 0,10.67 10.67,0 32,0 M 0,32 C 0,10.67 10.67,0 32,0"
+       stroke="currentColor"
+       stroke-width="4"
+       fill="none"
+       id="path16" />
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(702,2)"
+     id="g18"
+     class="line  text ">
+    <path
+       d="m 25,0 c 241.52,0 483.03,0 910,0 16.67,0 25,8.33 25,25 0,18.79 0,37.58 0,50 0,16.67 -8.33,25 -25,25 -349.79,0 -699.58,0 -910,0 C 8.33,100 0,91.67 0,75 0,55.73 0,36.46 0,25 0,8.33 8.33,0 25,0"
+       stroke="currentColor"
+       stroke-width="0"
+       fill="#b2f2bb"
+       id="path17"
+       style="fill:none" />
+    <path
+       d="M 25,0 C 210.47,0 395.95,0 935,0 M 25,0 c 266.08,0 532.15,0 910,0 m 0,0 c 16.67,0 25,8.33 25,25 M 935,0 c 16.67,0 25,8.33 25,25 m 0,0 c 0,16.39 0,32.77 0,50 m 0,-50 c 0,11.16 0,22.33 0,50 m 0,0 c 0,16.67 -8.33,25 -25,25 m 25,-25 c 0,16.67 -8.33,25 -25,25 m 0,0 c -323.31,0 -646.62,0 -910,0 m 910,0 c -197.73,0 -395.46,0 -910,0 m 0,0 C 8.33,100 0,91.67 0,75 m 25,25 C 8.33,100 0,91.67 0,75 m 0,0 C 0,60.87 0,46.74 0,25 M 0,75 C 0,55.26 0,35.52 0,25 m 0,0 C 0,8.33 8.33,0 25,0 M 0,25 C 0,8.33 8.33,0 25,0"
+       stroke="currentColor"
+       stroke-width="4"
+       fill="none"
+       id="path18" />
+  </g>
+  <g
+     transform="translate(1130.934,29.5)"
+     id="g19"
+     class="text  line">
+    <text
+       x="51.066017"
+       y="34.344002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="36px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text18"
+       class="text ">Jetson</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1302,122)"
+     id="g20"
+     class="line  text ">
+    <path
+       d="m 32,0 c 84.7,0 169.41,0 276,0 M 32,0 c 55.27,0 110.53,0 276,0 m 0,0 c 21.33,0 32,10.67 32,32 M 308,0 c 21.33,0 32,10.67 32,32 m 0,0 c 0,164.48 0,328.96 0,436 m 0,-436 c 0,136.25 0,272.5 0,436 m 0,0 c 0,21.33 -10.67,32 -32,32 m 32,-32 c 0,21.33 -10.67,32 -32,32 m 0,0 c -73.43,0 -146.87,0 -276,0 m 276,0 c -56.67,0 -113.34,0 -276,0 m 0,0 C 10.67,500 0,489.33 0,468 m 32,32 C 10.67,500 0,489.33 0,468 m 0,0 C 0,312.26 0,156.51 0,32 M 0,468 C 0,310.89 0,153.78 0,32 m 0,0 C 0,10.67 10.67,0 32,0 M 0,32 C 0,10.67 10.67,0 32,0"
+       stroke="currentColor"
+       stroke-width="4"
+       fill="none"
+       id="path19" />
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1302,122)"
+     id="g21"
+     class="line  text ">
+    <path
+       d="m 25,0 c 63.57,0 127.13,0 290,0 16.67,0 25,8.33 25,25 0,14.7 0,29.41 0,50 0,16.67 -8.33,25 -25,25 -67.6,0 -135.19,0 -290,0 C 8.33,100 0,91.67 0,75 0,64.92 0,54.84 0,25 0,8.33 8.33,0 25,0"
+       stroke="currentColor"
+       stroke-width="0"
+       fill="#b2f2bb"
+       id="path20"
+       style="fill:none" />
+    <path
+       d="M 25,0 C 137.94,0 250.87,0 315,0 M 25,0 c 82.03,0 164.06,0 290,0 m 0,0 c 16.67,0 25,8.33 25,25 M 315,0 c 16.67,0 25,8.33 25,25 m 0,0 c 0,10.19 0,20.39 0,50 m 0,-50 c 0,19.48 0,38.95 0,50 m 0,0 c 0,16.67 -8.33,25 -25,25 m 25,-25 c 0,16.67 -8.33,25 -25,25 m 0,0 c -100.91,0 -201.82,0 -290,0 m 290,0 c -115.32,0 -230.64,0 -290,0 m 0,0 C 8.33,100 0,91.67 0,75 m 25,25 C 8.33,100 0,91.67 0,75 m 0,0 C 0,62.02 0,49.03 0,25 M 0,75 C 0,60.37 0,45.74 0,25 m 0,0 C 0,8.33 8.33,0 25,0 M 0,25 C 0,8.33 8.33,0 25,0"
+       stroke="currentColor"
+       stroke-width="4"
+       fill="none"
+       id="path21" />
+  </g>
+  <g
+     transform="translate(1414.994,149.5)"
+     id="g22"
+     class="text  line">
+    <text
+       x="57.00602"
+       y="34.344002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="36px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text21"
+       class="text ">Docker</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1322,242)"
+     id="g23"
+     class="line  text ">
+    <path
+       d="M 25,0 C 79.79,0 134.58,0 275,0 M 25,0 c 94.21,0 188.41,0 250,0 m 0,0 c 16.67,0 25,8.33 25,25 M 275,0 c 16.67,0 25,8.33 25,25 m 0,0 c 0,15.01 0,30.02 0,50 m 0,-50 c 0,12.48 0,24.96 0,50 m 0,0 c 0,16.67 -8.33,25 -25,25 m 25,-25 c 0,16.67 -8.33,25 -25,25 m 0,0 c -94.11,0 -188.21,0 -250,0 m 250,0 c -74.15,0 -148.29,0 -250,0 m 0,0 C 8.33,100 0,91.67 0,75 m 25,25 C 8.33,100 0,91.67 0,75 m 0,0 C 0,64.16 0,53.32 0,25 M 0,75 C 0,59.85 0,44.7 0,25 m 0,0 C 0,8.33 8.33,0 25,0 M 0,25 C 0,8.33 8.33,0 25,0"
+       stroke="currentColor"
+       stroke-width="4"
+       fill="none"
+       id="path22" />
+  </g>
+  <g
+     transform="translate(1350.95,269.5)"
+     id="g24"
+     class="text  line">
+    <text
+       x="121.05005"
+       y="34.344002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="36px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text23"
+       class="text ">ROS2 Daemon</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1322,502)"
+     id="g25"
+     class="line  text ">
+    <path
+       d="M 25,0 C 78.37,0 131.74,0 275,0 M 25,0 c 50.95,0 101.89,0 250,0 m 0,0 c 16.67,0 25,8.33 25,25 M 275,0 c 16.67,0 25,8.33 25,25 m 0,0 c 0,18.46 0,36.93 0,50 m 0,-50 c 0,15.73 0,31.46 0,50 m 0,0 c 0,16.67 -8.33,25 -25,25 m 25,-25 c 0,16.67 -8.33,25 -25,25 m 0,0 c -98.77,0 -197.54,0 -250,0 m 250,0 c -58.12,0 -116.25,0 -250,0 m 0,0 C 8.33,100 0,91.67 0,75 m 25,25 C 8.33,100 0,91.67 0,75 m 0,0 C 0,59.05 0,43.1 0,25 M 0,75 C 0,61.89 0,48.79 0,25 m 0,0 C 0,8.33 8.33,0 25,0 M 0,25 C 0,8.33 8.33,0 25,0"
+       stroke="currentColor"
+       stroke-width="4"
+       fill="none"
+       id="path24" />
+  </g>
+  <g
+     transform="translate(1392.08,529.5)"
+     id="g26"
+     class="text  line">
+    <text
+       x="79.920029"
+       y="34.344002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="36px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text25"
+       class="text ">ZED node</text>
+  </g>
+  <g
+     mask="url(#mask-PIBdEM23pg1E-wmhRBwuQ)"
+     stroke-linecap="round"
+     id="g30"
+     class="line  text "
+     transform="translate(-8,-8)">
+    <g
+       transform="translate(1480.03,503)"
+       id="g27">
+      <path
+         d="M 0,0 C 0,-24.33 0,-121.67 0,-146 M 0,0 c 0,-24.33 0,-121.67 0,-146"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path26" />
+    </g>
+    <g
+       transform="translate(1480.03,503)"
+       id="g28">
+      <path
+         d="M 8.55,-122.51 C 6.24,-128.86 3.93,-135.21 0,-146 m 8.55,23.49 C 5.92,-129.75 3.28,-136.99 0,-146"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path27" />
+    </g>
+    <g
+       transform="translate(1480.03,503)"
+       id="g29">
+      <path
+         d="m -8.55,-122.51 c 2.31,-6.35 4.62,-12.7 8.55,-23.49 m -8.55,23.49 c 2.63,-7.24 5.27,-14.48 8.55,-23.49"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path28" />
+    </g>
+  </g>
+  <mask
+     id="mask-PIBdEM23pg1E-wmhRBwuQ">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="1580.03"
+       height="749"
+       id="rect30" />
+    <rect
+       x="1383.5276"
+       y="412.5"
+       fill="#000000"
+       width="193.00481"
+       height="35"
+       opacity="1"
+       id="rect31" />
+  </mask>
+  <g
+     transform="translate(1375.5276,404.5)"
+     id="g31"
+     class="text  line">
+    <text
+       x="96.502403"
+       y="26.712"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="28px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text31"
+       class="text ">Processed data</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(722,242)"
+     id="g32"
+     class="line  text ">
+    <path
+       d="M 25,0 C 83.01,0 141.03,0 275,0 M 25,0 c 91.01,0 182.02,0 250,0 m 0,0 c 16.67,0 25,8.33 25,25 M 275,0 c 16.67,0 25,8.33 25,25 m 0,0 c 0,11.36 0,22.71 0,50 m 0,-50 c 0,15.38 0,30.75 0,50 m 0,0 c 0,16.67 -8.33,25 -25,25 m 25,-25 c 0,16.67 -8.33,25 -25,25 m 0,0 c -77.21,0 -154.43,0 -250,0 m 250,0 c -67.31,0 -134.62,0 -250,0 m 0,0 C 8.33,100 0,91.67 0,75 m 25,25 C 8.33,100 0,91.67 0,75 m 0,0 C 0,57.92 0,40.84 0,25 M 0,75 C 0,56.96 0,38.93 0,25 m 0,0 C 0,8.33 8.33,0 25,0 M 0,25 C 0,8.33 8.33,0 25,0"
+       stroke="currentColor"
+       stroke-width="4"
+       fill="none"
+       id="path31" />
+  </g>
+  <g
+     transform="translate(760.68797,269.5)"
+     id="g33"
+     class="text  line">
+    <text
+       x="111.31203"
+       y="34.344002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="36px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text32"
+       class="text ">Rust program</text>
+  </g>
+  <g
+     mask="url(#mask-FNRohI-STq092_E4oid05)"
+     stroke-linecap="round"
+     id="g37"
+     class="line  text "
+     transform="translate(-8,-8)">
+    <g
+       transform="translate(1323,300.01)"
+       id="g34">
+      <path
+         d="M 0,0 C -47.67,0 -238.33,0 -286,0 M 0,0 c -47.67,0 -238.33,0 -286,0"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path33" />
+    </g>
+    <g
+       transform="translate(1323,300.01)"
+       id="g35">
+      <path
+         d="m -262.51,-8.55 c -6.91,2.52 -13.83,5.03 -23.49,8.55 m 23.49,-8.55 c -8.26,3.01 -16.53,6.02 -23.49,8.55"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path34" />
+    </g>
+    <g
+       transform="translate(1323,300.01)"
+       id="g36">
+      <path
+         d="M -262.51,8.55 C -269.42,6.03 -276.34,3.52 -286,0 m 23.49,8.55 C -270.77,5.54 -279.04,2.53 -286,0"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path35" />
+    </g>
+  </g>
+  <mask
+     id="mask-FNRohI-STq092_E4oid05">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="1709"
+       height="400.01001"
+       id="rect37" />
+    <rect
+       x="1115.3057"
+       y="265.01001"
+       fill="#000000"
+       width="129.38855"
+       height="70"
+       opacity="1"
+       id="rect38" />
+  </mask>
+  <g
+     transform="translate(1107.3057,257.01)"
+     id="g39"
+     class="text  line">
+    <text
+       x="64.694275"
+       y="26.712"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="28px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text38"
+       class="text ">Processed</text>
+    <text
+       x="64.694275"
+       y="61.712002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="28px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text39"
+       class="text ">data</text>
+  </g>
+  <g
+     mask="url(#mask-qhb6ofXJaYsShU78ns-Ev)"
+     stroke-linecap="round"
+     id="g43"
+     class="line  text "
+     transform="translate(-8,-8)">
+    <g
+       transform="translate(861.5285,243)"
+       id="g40">
+      <path
+         d="m 0,0 c -58.59,-22.17 -260.77,-122.1 -351.53,-133 -90.75,-10.9 -160.83,56.32 -193,67.58 M 0,0 c -58.59,-22.17 -260.77,-122.1 -351.53,-133 -90.75,-10.9 -160.83,56.32 -193,67.58"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path39" />
+    </g>
+    <g
+       transform="translate(861.5285,243)"
+       id="g41">
+      <path
+         d="m -528.19,-84.34 c -5.95,6.9 -11.91,13.8 -16.34,18.92 m 16.34,-18.92 c -6.45,7.48 -12.91,14.95 -16.34,18.92"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path40" />
+    </g>
+    <g
+       transform="translate(861.5285,243)"
+       id="g42">
+      <path
+         d="m -519.85,-69.41 c -8.99,1.46 -17.99,2.91 -24.68,3.99 m 24.68,-3.99 c -9.75,1.58 -19.49,3.15 -24.68,3.99"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path41" />
+    </g>
+  </g>
+  <mask
+     id="mask-qhb6ofXJaYsShU78ns-Ev">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="1506.057"
+       height="476"
+       id="rect43" />
+    <rect
+       x="441.23172"
+       y="75"
+       fill="#000000"
+       width="137.53656"
+       height="70"
+       opacity="1"
+       id="rect44" />
+  </mask>
+  <g
+     transform="translate(433.23172,67)"
+     id="g45"
+     class="text  line">
+    <text
+       x="68.76828"
+       y="26.712"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="28px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text44"
+       class="text ">Movement</text>
+    <text
+       x="68.76828"
+       y="61.712002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="28px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text45"
+       class="text ">commands</text>
+  </g>
+  <g
+     mask="url(#mask-XEwTWVyhWmn4Bpql6kSLP)"
+     stroke-linecap="round"
+     id="g49"
+     class="line  text "
+     transform="translate(-8,-8)">
+    <g
+       transform="translate(317,214.66667)"
+       id="g46">
+      <path
+         d="m 0,0 c 48.83,32.56 204.41,171.61 293,195.33 88.59,23.73 198.77,-44.16 238.53,-53 M 0,0 c 48.83,32.56 204.41,171.61 293,195.33 88.59,23.73 198.77,-44.16 238.53,-53"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path45" />
+    </g>
+    <g
+       transform="translate(317,214.66667)"
+       id="g47">
+      <path
+         d="m 512.59,158.65 c 5.17,-4.45 10.33,-8.9 18.94,-16.32 m -18.94,16.32 c 5.14,-4.42 10.28,-8.85 18.94,-16.32"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path46" />
+    </g>
+    <g
+       transform="translate(317,214.66667)"
+       id="g48">
+      <path
+         d="m 506.53,142.66 c 6.82,-0.09 13.64,-0.18 25,-0.33 m -25,0.33 c 6.78,-0.09 13.56,-0.18 25,-0.33"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path47" />
+    </g>
+  </g>
+  <mask
+     id="mask-XEwTWVyhWmn4Bpql6kSLP">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="948.52649"
+       height="510"
+       id="rect49" />
+    <rect
+       x="566.15179"
+       y="375"
+       fill="#000000"
+       width="87.696381"
+       height="70"
+       opacity="1"
+       id="rect50" />
+  </mask>
+  <g
+     transform="translate(558.15181,367)"
+     id="g51"
+     class="text  line">
+    <text
+       x="43.84819"
+       y="26.712"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="28px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text50"
+       class="text ">Sensor</text>
+    <text
+       x="43.84819"
+       y="61.712002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="28px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text51"
+       class="text ">data</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(282,562)"
+     id="g52"
+     class="line  text ">
+    <path
+       d="m 25,0 c 83.25,0 166.51,0 250,0 M 25,0 c 71.54,0 143.08,0 250,0 m 0,0 c 16.67,0 25,8.33 25,25 M 275,0 c 16.67,0 25,8.33 25,25 m 0,0 c 0,17.12 0,34.25 0,50 m 0,-50 c 0,17.02 0,34.05 0,50 m 0,0 c 0,16.67 -8.33,25 -25,25 m 25,-25 c 0,16.67 -8.33,25 -25,25 m 0,0 c -67.35,0 -134.7,0 -250,0 m 250,0 c -98.65,0 -197.29,0 -250,0 m 0,0 C 8.33,100 0,91.67 0,75 m 25,25 C 8.33,100 0,91.67 0,75 m 0,0 C 0,59.8 0,44.59 0,25 M 0,75 C 0,56.57 0,38.14 0,25 m 0,0 C 0,8.33 8.33,0 25,0 M 0,25 C 0,8.33 8.33,0 25,0"
+       stroke="currentColor"
+       stroke-width="4"
+       fill="none"
+       id="path51" />
+  </g>
+  <g
+     transform="translate(309.50996,567)"
+     id="g53"
+     class="text  line">
+    <text
+       x="122.49004"
+       y="34.344002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="36px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text52"
+       class="text ">Manipulation</text>
+    <text
+       x="122.49004"
+       y="79.344002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="36px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text53"
+       class="text ">Systems Board</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(82,762)"
+     id="g54"
+     class="line  text ">
+    <path
+       d="m 25,0 c 41.69,0 83.37,0 150,0 M 25,0 c 39.51,0 79.02,0 150,0 m 0,0 c 16.67,0 25,8.33 25,25 M 175,0 c 16.67,0 25,8.33 25,25 m 0,0 c 0,11.25 0,22.49 0,50 m 0,-50 c 0,14.87 0,29.74 0,50 m 0,0 c 0,16.67 -8.33,25 -25,25 m 25,-25 c 0,16.67 -8.33,25 -25,25 m 0,0 c -51.09,0 -102.19,0 -150,0 m 150,0 c -32.62,0 -65.23,0 -150,0 m 0,0 C 8.33,100 0,91.67 0,75 m 25,25 C 8.33,100 0,91.67 0,75 m 0,0 C 0,59.16 0,43.32 0,25 M 0,75 C 0,57.83 0,40.65 0,25 m 0,0 C 0,8.33 8.33,0 25,0 M 0,25 C 0,8.33 8.33,0 25,0"
+       stroke="currentColor"
+       stroke-width="4"
+       fill="none"
+       id="path53" />
+  </g>
+  <g
+     transform="translate(114.71598,789.5)"
+     id="g55"
+     class="text  line">
+    <text
+       x="67.284019"
+       y="34.344002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="36px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text54"
+       class="text ">Dropper</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(582,762)"
+     id="g56"
+     class="line  text ">
+    <path
+       d="m 25,0 c 46.68,0 93.36,0 170,0 M 25,0 c 42.76,0 85.52,0 170,0 m 0,0 c 16.67,0 25,8.33 25,25 M 195,0 c 16.67,0 25,8.33 25,25 m 0,0 c 0,10.26 0,20.53 0,50 m 0,-50 c 0,15.75 0,31.5 0,50 m 0,0 c 0,16.67 -8.33,25 -25,25 m 25,-25 c 0,16.67 -8.33,25 -25,25 m 0,0 c -51.79,0 -103.59,0 -170,0 m 170,0 c -53.52,0 -107.04,0 -170,0 m 0,0 C 8.33,100 0,91.67 0,75 m 25,25 C 8.33,100 0,91.67 0,75 m 0,0 C 0,55.2 0,35.4 0,25 M 0,75 C 0,56.9 0,38.8 0,25 m 0,0 C 0,8.33 8.33,0 25,0 M 0,25 C 0,8.33 8.33,0 25,0"
+       stroke="currentColor"
+       stroke-width="4"
+       fill="none"
+       id="path55" />
+  </g>
+  <g
+     transform="translate(625.48998,789.5)"
+     id="g57"
+     class="text  line">
+    <text
+       x="66.510017"
+       y="34.344002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="36px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text56"
+       class="text ">Grabber</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(322,862)"
+     id="g58"
+     class="line  text ">
+    <path
+       d="M 25,0 C 60.23,0 95.45,0 195,0 M 25,0 c 56.04,0 112.07,0 170,0 m 0,0 c 16.67,0 25,8.33 25,25 M 195,0 c 16.67,0 25,8.33 25,25 m 0,0 c 0,15.58 0,31.15 0,50 m 0,-50 c 0,16.59 0,33.18 0,50 m 0,0 c 0,16.67 -8.33,25 -25,25 m 25,-25 c 0,16.67 -8.33,25 -25,25 m 0,0 c -44.45,0 -88.9,0 -170,0 m 170,0 c -56.11,0 -112.23,0 -170,0 m 0,0 C 8.33,100 0,91.67 0,75 m 25,25 C 8.33,100 0,91.67 0,75 m 0,0 C 0,61.11 0,47.22 0,25 M 0,75 C 0,62.34 0,49.68 0,25 m 0,0 C 0,8.33 8.33,0 25,0 M 0,25 C 0,8.33 8.33,0 25,0"
+       stroke="currentColor"
+       stroke-width="4"
+       fill="none"
+       id="path57" />
+  </g>
+  <g
+     transform="translate(346.67998,889.5)"
+     id="g59"
+     class="text  line">
+    <text
+       x="85.320023"
+       y="34.344002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="36px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text58"
+       class="text ">Torpedoes</text>
+  </g>
+  <g
+     mask="url(#mask-msGzIWhO-C-ovsTO1zCWk)"
+     stroke-linecap="round"
+     id="g63"
+     class="line  text "
+     transform="translate(-8,-8)">
+    <g
+       transform="translate(440.02972,677)"
+       id="g60">
+      <path
+         d="M 0,0 C 0,31 -0.01,155 -0.01,186 M 0,0 c 0,31 -0.01,155 -0.01,186"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path59" />
+    </g>
+    <g
+       transform="translate(440.02972,677)"
+       id="g61">
+      <path
+         d="m -8.56,162.51 c 3.24,8.89 6.47,17.78 8.55,23.49 m -8.55,-23.49 c 2.39,6.55 4.77,13.11 8.55,23.49"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path60" />
+    </g>
+    <g
+       transform="translate(440.02972,677)"
+       id="g62">
+      <path
+         d="M 8.54,162.51 C 5.31,171.4 2.07,180.29 -0.01,186 M 8.54,162.51 C 6.16,169.06 3.77,175.62 -0.01,186"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path61" />
+    </g>
+  </g>
+  <mask
+     id="mask-msGzIWhO-C-ovsTO1zCWk">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="540.03717"
+       height="963"
+       id="rect63" />
+    <rect
+       x="322.8175"
+       y="735"
+       fill="#000000"
+       width="234.41701"
+       height="70"
+       opacity="1"
+       id="rect64" />
+  </mask>
+  <g
+     transform="translate(314.8175,727)"
+     id="g65"
+     class="text  line">
+    <text
+       x="117.2085"
+       y="26.712"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="28px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text64"
+       class="text ">Power to</text>
+    <text
+       x="117.2085"
+       y="61.712002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="28px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text65"
+       class="text ">magents/actuators</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     id="g69"
+     class="line  text "
+     transform="translate(-8,-8)">
+    <g
+       transform="translate(434.77475,677)"
+       id="g66">
+      <path
+         d="m 0,0 c -4.13,5.5 12.69,27.5 -24.77,33 -37.47,5.5 -163.73,-8.83 -200,0 -36.28,8.83 -14.71,44.17 -17.65,53 M 0,0 c -4.13,5.5 12.69,27.5 -24.77,33 -37.47,5.5 -163.73,-8.83 -200,0 -36.28,8.83 -14.71,44.17 -17.65,53"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path65" />
+    </g>
+    <g
+       transform="translate(434.77475,677)"
+       id="g67">
+      <path
+         d="m -253.88,63.78 c 4,7.77 8.01,15.53 11.46,22.22 m -11.46,-22.22 c 3.68,7.14 7.36,14.28 11.46,22.22"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path66" />
+    </g>
+    <g
+       transform="translate(434.77475,677)"
+       id="g68">
+      <path
+         d="m -236.92,61.61 c -1.92,8.53 -3.85,17.05 -5.5,24.39 m 5.5,-24.39 c -1.77,7.84 -3.54,15.67 -5.5,24.39"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path67" />
+    </g>
+  </g>
+  <mask
+     id="mask69" />
+  <g
+     stroke-linecap="round"
+     id="g73"
+     class="line  text "
+     transform="translate(-8,-8)">
+    <g
+       transform="translate(445.27475,677)"
+       id="g70">
+      <path
+         d="m 0,0 c 4.12,5.5 -12.73,27.5 24.73,33 37.45,5.5 162.24,-8.83 200,0 37.75,8.83 22.09,44.17 26.51,53 M 0,0 c 4.12,5.5 -12.73,27.5 24.73,33 37.45,5.5 162.24,-8.83 200,0 37.75,8.83 22.09,44.17 26.51,53"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path69" />
+    </g>
+    <g
+       transform="translate(445.27475,677)"
+       id="g71">
+      <path
+         d="m 241.77,62.86 c 3.47,8.48 6.94,16.95 9.47,23.14 m -9.47,-23.14 c 1.94,4.75 3.89,9.5 9.47,23.14"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path70" />
+    </g>
+    <g
+       transform="translate(445.27475,677)"
+       id="g72">
+      <path
+         d="m 258.86,62.19 c -2.79,8.72 -5.58,17.44 -7.62,23.81 m 7.62,-23.81 c -1.56,4.88 -3.13,9.77 -7.62,23.81"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path71" />
+    </g>
+  </g>
+  <mask
+     id="mask73" />
+  <g
+     mask="url(#mask-Lnb7vhQPBGKv9G6yyKTE6)"
+     stroke-linecap="round"
+     id="g77"
+     class="line  text "
+     transform="translate(-8,-8)">
+    <g
+       transform="translate(888.83333,357)"
+       id="g74">
+      <path
+         d="m 0,0 c -6.47,38.83 9.81,189.3 -38.83,233 -48.64,43.7 -210.84,24.34 -253,29.2 M 0,0 c -6.47,38.83 9.81,189.3 -38.83,233 -48.64,43.7 -210.84,24.34 -253,29.2"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path73" />
+    </g>
+    <g
+       transform="translate(888.83333,357)"
+       id="g75">
+      <path
+         d="m -268.37,253.58 c -6.71,2.47 -13.42,4.93 -23.46,8.62 m 23.46,-8.62 c -9.03,3.32 -18.07,6.64 -23.46,8.62"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path74" />
+    </g>
+    <g
+       transform="translate(888.83333,357)"
+       id="g76">
+      <path
+         d="m -268.32,270.68 c -6.72,-2.42 -13.45,-4.85 -23.51,-8.48 m 23.51,8.48 c -9.05,-3.26 -18.11,-6.53 -23.51,-8.48"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path75" />
+    </g>
+  </g>
+  <mask
+     id="mask-Lnb7vhQPBGKv9G6yyKTE6">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="1280.6666"
+       height="719.20203"
+       id="rect77" />
+    <rect
+       x="743.78156"
+       y="555"
+       fill="#000000"
+       width="212.43689"
+       height="70"
+       opacity="1"
+       id="rect78" />
+  </mask>
+  <g
+     transform="translate(735.78156,547)"
+     id="g79"
+     class="text  line">
+    <text
+       x="106.21844"
+       y="26.712"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="28px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text78"
+       class="text ">High level action</text>
+    <text
+       x="106.21844"
+       y="61.712002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="28px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text79"
+       class="text ">commands</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(942,802)"
+     id="g80"
+     class="line  text ">
+    <path
+       d="M 25,0 C 76.64,0 128.28,0 275,0 M 25,0 c 74.57,0 149.14,0 250,0 m 0,0 c 16.67,0 25,8.33 25,25 M 275,0 c 16.67,0 25,8.33 25,25 m 0,0 c 0,19.47 0,38.95 0,50 m 0,-50 c 0,13.29 0,26.57 0,50 m 0,0 c 0,16.67 -8.33,25 -25,25 m 25,-25 c 0,16.67 -8.33,25 -25,25 m 0,0 c -93.4,0 -186.8,0 -250,0 m 250,0 c -72.68,0 -145.36,0 -250,0 m 0,0 C 8.33,100 0,91.67 0,75 m 25,25 C 8.33,100 0,91.67 0,75 m 0,0 C 0,56.47 0,37.94 0,25 M 0,75 C 0,57.16 0,39.33 0,25 m 0,0 C 0,8.33 8.33,0 25,0 M 0,25 C 0,8.33 8.33,0 25,0"
+       stroke="currentColor"
+       stroke-width="4"
+       fill="none"
+       id="path79" />
+  </g>
+  <g
+     transform="translate(964.39795,829.5)"
+     id="g81"
+     class="text  line">
+    <text
+       x="127.60205"
+       y="34.344002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="36px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text80"
+       class="text ">Bottom Camera</text>
+  </g>
+  <g
+     mask="url(#mask-bYfQk8IbyEhpH3kQXAR3q)"
+     stroke-linecap="round"
+     id="g85"
+     class="line  text "
+     transform="translate(-8,-8)">
+    <g
+       transform="translate(1099.835,803)"
+       id="g82">
+      <path
+         d="m 0,0 c -1.64,-58.83 10.84,-278.67 -9.83,-353 -20.68,-74.33 -95.2,-77.5 -114.23,-93 M 0,0 c -1.64,-58.83 10.84,-278.67 -9.83,-353 -20.68,-74.33 -95.2,-77.5 -114.23,-93"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path81" />
+    </g>
+    <g
+       transform="translate(1099.835,803)"
+       id="g83">
+      <path
+         d="m -99.12,-444.33 c -9.79,-0.66 -19.57,-1.31 -24.94,-1.67 m 24.94,1.67 c -5.18,-0.35 -10.35,-0.7 -24.94,-1.67"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path82" />
+    </g>
+    <g
+       transform="translate(1099.835,803)"
+       id="g84">
+      <path
+         d="m -106.03,-428.69 c -7.07,-6.79 -14.15,-13.58 -18.03,-17.31 m 18.03,17.31 c -3.74,-3.59 -7.48,-7.18 -18.03,-17.31"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path83" />
+    </g>
+  </g>
+  <mask
+     id="mask-bYfQk8IbyEhpH3kQXAR3q">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="1323.8993"
+       height="1349"
+       id="rect85" />
+    <rect
+       x="964.44751"
+       y="432.5"
+       fill="#000000"
+       width="251.10503"
+       height="35"
+       opacity="1"
+       id="rect86" />
+  </mask>
+  <g
+     transform="translate(956.44749,424.5)"
+     id="g86"
+     class="text  line">
+    <text
+       x="125.55251"
+       y="26.712"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="28px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text86"
+       class="text ">Raw camera stream</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1342,802)"
+     id="g87"
+     class="line  text ">
+    <path
+       d="m 25,0 c 76.44,0 152.88,0 230,0 M 25,0 c 70.83,0 141.66,0 230,0 m 0,0 c 16.67,0 25,8.33 25,25 M 255,0 c 16.67,0 25,8.33 25,25 m 0,0 c 0,10.94 0,21.88 0,50 m 0,-50 c 0,11.21 0,22.42 0,50 m 0,0 c 0,16.67 -8.33,25 -25,25 m 25,-25 c 0,16.67 -8.33,25 -25,25 m 0,0 c -79.21,0 -158.42,0 -230,0 m 230,0 c -62.86,0 -125.72,0 -230,0 m 0,0 C 8.33,100 0,91.67 0,75 m 25,25 C 8.33,100 0,91.67 0,75 m 0,0 C 0,61.78 0,48.56 0,25 M 0,75 C 0,58.92 0,42.85 0,25 m 0,0 C 0,8.33 8.33,0 25,0 M 0,25 C 0,8.33 8.33,0 25,0"
+       stroke="currentColor"
+       stroke-width="4"
+       fill="none"
+       id="path86" />
+  </g>
+  <g
+     transform="translate(1380.012,829.5)"
+     id="g88"
+     class="text  line">
+    <text
+       x="101.98804"
+       y="34.344002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="36px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text87"
+       class="text ">ZED Camera</text>
+  </g>
+  <g
+     mask="url(#mask-J3PkWXQUe2YT5QbN9Kfpg)"
+     stroke-linecap="round"
+     id="g92"
+     class="line  text "
+     transform="translate(-8,-8)">
+    <g
+       transform="translate(1480.6421,803)"
+       id="g89">
+      <path
+         d="M 0,0 C -0.1,-27.67 -0.49,-138.33 -0.58,-166 M 0,0 c -0.1,-27.67 -0.49,-138.33 -0.58,-166"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path88" />
+    </g>
+    <g
+       transform="translate(1480.6421,803)"
+       id="g90">
+      <path
+         d="M 8.05,-142.54 C 4.72,-151.59 1.39,-160.65 -0.58,-166 m 8.63,23.46 C 6.21,-147.55 4.36,-152.55 -0.58,-166"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path89" />
+    </g>
+    <g
+       transform="translate(1480.6421,803)"
+       id="g91">
+      <path
+         d="m -9.05,-142.48 c 3.27,-9.08 6.53,-18.15 8.47,-23.52 m -8.47,23.52 c 1.81,-5.02 3.61,-10.04 8.47,-23.52"
+         stroke="currentColor"
+         stroke-width="4"
+         fill="none"
+         id="path90" />
+    </g>
+  </g>
+  <mask
+     id="mask-J3PkWXQUe2YT5QbN9Kfpg">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="1581.2255"
+       height="1069"
+       id="rect92" />
+    <rect
+       x="1329.7238"
+       y="702.5"
+       fill="#000000"
+       width="301.25323"
+       height="35"
+       opacity="1"
+       id="rect93" />
+  </mask>
+  <g
+     transform="translate(1321.7237,694.5)"
+     id="g93"
+     class="text  line">
+    <text
+       x="150.62662"
+       y="26.712"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="28px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text93"
+       class="text ">Raw depth camera data</text>
+  </g>
+</svg>
